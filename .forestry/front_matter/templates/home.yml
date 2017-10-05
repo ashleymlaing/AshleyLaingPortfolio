@@ -13,3 +13,8 @@ fields:
   label: Title
   config:
     required: true
+- type: text
+  name: permaln
+  label: Permalink
+  config:
+    required: true
