@@ -1,0 +1,11 @@
+---
+hide_body: false
+fields:
+- type: textarea
+- type: textarea
+  label: Blurb
+  name: blurb
+  description: Name and Blurb Area for HomePage
+  config:
+    required: true
+    wysiwyg: true
