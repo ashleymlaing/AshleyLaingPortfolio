@@ -1,10 +1,10 @@
 ---
 blurb: "<br><br>"
 date: 2017-10-05 05:43:43 +0000
-title: Ashley Laing Portfolio
-undefined: ''
 layout: page
 permaln: "/"
+title: Home
+undefined: ''
 ---
 
 
